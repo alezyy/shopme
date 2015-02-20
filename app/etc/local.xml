@@ -28,10 +28,10 @@
 <config>
     <global>
         <install>
-            <date><![CDATA[Fri, 20 Feb 2015 00:21:54 +0000]]></date>
+            <date><![CDATA[Fri, 20 Feb 2015 18:18:09 +0000]]></date>
         </install>
         <crypt>
-            <key><![CDATA[dbea6080f36cc21e06c85b94f690e8ec]]></key>
+            <key><![CDATA[8a86f3a23163a04da24cd6e23cbb32ba]]></key>
         </crypt>
         <disable_local_modules>false</disable_local_modules>
         <resources>
@@ -42,7 +42,7 @@
                 <connection>
                     <host><![CDATA[localhost]]></host>
                     <username><![CDATA[root]]></username>
-                    <password><![CDATA[Net463877]]></password>
+                    <password><![CDATA[Net463877@alezy]]></password>
                     <dbname><![CDATA[shopme]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
